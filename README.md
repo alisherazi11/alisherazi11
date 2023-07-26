@@ -20,6 +20,4 @@ At the heart of my work lies a relentless pursuit of excellence. I take immense 
 
 Rest assured, I'm not one to rest on my laurels. To keep pace with the rapidly evolving tech landscape, I constantly stay up to date with the latest trends and advancements. This means you'll benefit from cutting-edge solutions that stand the test of time.  <br>
 
-Let's embark on a journey of creativity and innovation together. Whether you need a website, web application, or API integration, I'm here to turn your ideas into reality.  <br>
-
-Looking forward to creating something extraordinary for you!
+Let's embark on a journey of creativity and innovation together. Whether you need a website, web application, or API integration, I'm here to turn your ideas into reality.
